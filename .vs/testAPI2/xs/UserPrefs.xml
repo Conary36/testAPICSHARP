@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{E2122312-8A9B-4562-85A1-197178741999}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="testAPI2/Controllers/friendController.cs">
+    <Files>
+      <File FileName="testAPI2/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="testAPI2/Friend.cs" Line="6" Column="30" />
+      <File FileName="testAPI2/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="testAPI2/Startup.cs" Line="44" Column="1" />
+      <File FileName="testAPI2/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="testAPI2/Properties/launchSettings.json" Line="11" Column="16" />
+      <File FileName="testAPI2/Controllers/friendController.cs" Line="68" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testAPI2" expanded="True">
+            <Node name="testAPI2" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="friendController.cs" selected="True" />
+              </Node>
+              <Node name="models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.testAPI2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
